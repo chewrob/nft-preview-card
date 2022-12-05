@@ -36,6 +36,7 @@ main {
     background-color: var(--very-darkblue-card);
     border-radius: var(--border-radius);
     padding: 1.5rem;
+    transform: scale(.8);
 }
 
 .img-top {
@@ -78,7 +79,8 @@ main {
 }
 
 .card-title {
-    color: var(--Cyan)
+    color: var(--white);
+    font-size: 2.3rem;
 }
 
 .card-description {
